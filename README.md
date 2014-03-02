@@ -3,7 +3,12 @@ steam-login
 
 Put STEAM BigPicture mode at login screen
 
-NEWS
+My Changes
+----
+
+* Set Default Sound Device on Start.
+
+Main Repo NEWS
 ----
 * *Version 8* <br/>
 Improve primusrun. better performance with "optirun -b primus" than "primusrun" (thanks to xXxDeadStarxXx <axy.david@gmail.com>). PPA for Ubuntu Saucy.
